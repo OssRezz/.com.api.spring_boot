@@ -1,4 +1,4 @@
-# Api Sprint Boot
+# Api Spring Boot
 
 ## Para usar esta api seguir los siguientes pasos:
 
