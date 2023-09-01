@@ -1,5 +1,11 @@
 # Api Spring Boot
 
+- Proyecto desarrollado con el IDE Spring Tool Suite
+
+- JDK de Java Version 8
+
+- Base de datos MySQL
+
 ## Para usar esta api seguir los siguientes pasos:
 
 - En la carpeta src/main/java/resources encontramos el archivo application.properties. En esta vamos a modificar
